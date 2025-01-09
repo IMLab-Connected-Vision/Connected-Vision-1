@@ -1,5 +1,4 @@
 <div align="justify">
-# Connected_Vision_2
 
 ## An efficient deep learning architecture for effective fire detection in smart surveillance
 
