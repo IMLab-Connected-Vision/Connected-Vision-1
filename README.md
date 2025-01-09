@@ -21,4 +21,4 @@ Option 3: The proposed DFAN dataset [Click here](https://scholar.google.com/cita
 
 
 ## 3. Acknowledgements
-This work was supported by National Research Foundation of Korea(NRF) grant funded by the Korea government (MSIT), Grant/Award Number:(2023R1A2C1005788).
+This work was supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), Grant/Award Number:(2023R1A2C1005788).
