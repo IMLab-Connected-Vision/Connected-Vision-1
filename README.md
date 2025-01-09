@@ -1,6 +1,6 @@
 <div align="justify">
 
-## An efficient deep learning architecture for effective fire detection in smart surveillance
+## An Efficient Deep Learning Architecture for Effective Fire Detection in Smart Surveillance
 
 This paper has been published in [Image and Vision Computing Journal](https://www.sciencedirect.com/journal/image-and-vision-computing). 
 
